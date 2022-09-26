@@ -1,3 +1,4 @@
 {
-    "mongoPath": "./cert/X509-cert-5533977006220479260.pem"
+    "mongoURI": "mongodb+srv://user-admin-1:F5DOWcWJV1OqXpvh@mern-tutorial-cluster.aumcfpy.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSectret": "mysecrettoken"
 }
