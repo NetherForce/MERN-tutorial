@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://user-admin-1:F5DOWcWJV1OqXpvh@mern-tutorial-cluster.aumcfpy.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSectret": "mysecrettoken"
+    "jwtSectret": "mysecrettoken",
+    "githubClientId": "af80f80d23e635729889",
+    "githubSecret": "9ac5b5571c95d54041a0ca76e8bd5d116b89d499"
 }
