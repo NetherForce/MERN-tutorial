@@ -12,6 +12,7 @@
   "author": "Martin",
   "license": "ISC",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.8",
     "express": "^4.18.1",
